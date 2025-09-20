@@ -1,0 +1,6 @@
+Name: Joshua Mullins 
+MAV ID: 1002041740
+Repo: https://github.com/CSE-classes/project-0-marioluigijam
+
+I think the project is done. Thought for some reason it seems running proj0 as the first command after boot can 
+have issues. I don't think this is unique to that command though. 
